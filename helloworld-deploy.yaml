@@ -14,7 +14,7 @@ spec:
       - name: helloworld
         image: quay.io/weaveworks/helloworld:master-a000001
         args:
-        - -msg=Welcome again to the cluster of peter_v
+        - -msg=Welcome Dale to the cluster of peter_v
         ports:
         - containerPort: 80
       - name: sidecar
