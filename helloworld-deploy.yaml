@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/weaveworks/helloworld:master-a000001
+        image: eu.gcr.io/playpass01/peter-v-helloworld
         args:
         - -msg=Welcome Again to the cluster of peter_v
         ports:
