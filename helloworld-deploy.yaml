@@ -14,7 +14,7 @@ spec:
       - name: playpass01-gcr-read-only
       containers:
       - name: helloworld
-        image: eu.gcr.io/playpass01/peter-v-helloworld:v6
+        image: eu.gcr.io/playpass01/peter-v-helloworld:v7
         args:
         - -msg=Welcome Again to the cluster of peter_v
         ports:
