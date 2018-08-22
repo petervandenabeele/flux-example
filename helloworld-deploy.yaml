@@ -10,6 +10,8 @@ spec:
       labels:
         name: helloworld
     spec:
+      imagePullSecrets:
+      - name: playpass01-gcr-read-only
       containers:
       - name: helloworld
         image: eu.gcr.io/playpass01/peter-v-helloworld
