@@ -1,3 +1,11 @@
+## Version of Peter Vandenabeele
+
+I used this version for a while. This is easier, as you do not need access to a private repo.
+
+Now, I am reading the git repo for weave flux deployment from a private repo.
+
+Details on that can be found e.g. here https://github.com/weaveworks/flux/pull/1307
+
 ## <a name="help"></a>Getting Help
 
 If you have any questions about, feedback for or problems with `flux-example`:
